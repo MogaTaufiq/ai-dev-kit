@@ -1,0 +1,14 @@
+{
+  "name": "ai-dev-kit",
+  "description": "Local marketplace for ai-dev-kit.",
+  "owner": {
+    "name": "Moga"
+  },
+  "plugins": [
+    {
+      "name": "ai-dev-kit",
+      "source": "./",
+      "description": "Tier-based guardrails for AI coding agents."
+    }
+  ]
+}

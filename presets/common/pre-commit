@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+{{CHECK_TASK}}
+node scripts/kit/check-agents.mjs
+node scripts/kit/check-spec.mjs

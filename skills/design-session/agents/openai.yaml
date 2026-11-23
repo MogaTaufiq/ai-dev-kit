@@ -1,0 +1,3 @@
+interface:
+  display_name: design-session
+  short_description: Settle the design system and flows before UI code

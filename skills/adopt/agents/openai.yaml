@@ -1,0 +1,5 @@
+interface:
+  display_name: adopt
+  short_description: Install ai-dev-kit guardrails into a repo
+policy:
+  allow_implicit_invocation: false
